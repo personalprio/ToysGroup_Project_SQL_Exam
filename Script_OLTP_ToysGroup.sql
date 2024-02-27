@@ -91,8 +91,7 @@ Task 3: Popola le tabelle utilizzando dati a tua discrezione (sono sufficienti p
 /*
 Per creare e popolare le tabelle ho fatto riferimento allo script utile a ricreare il db di Esercizi del libro TSQL Fundamentals di 
 Itzik Ben-Gan. Sottolineo questo per far notare che sono al corrente di poter inserire diversi record all'interno di una tabella con solo
-uno statement INSERT aggiungengo qualche virgola dopo ogni set di valori, sinceramente non so nemmeno quale sia la differenza di fondo,
-magari di stabilità di esecuzione, ho semplicemente seguito come esempio una fonte più che affidabile.
+uno statement INSERT aggiungengo qualche virgola dopo ogni set di valori, dividendoli però siamo più sicuri e riduciamo il margine di errore.
 */
 --Popolo la tabella Categories
 INSERT INTO Categories (CategoryID, CategoryName)
