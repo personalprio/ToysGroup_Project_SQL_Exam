@@ -5,7 +5,7 @@ Lo scopo dell'esercitazione è quello di simulare uno scenario aziendale dove ge
 Il DWH non è stato però implementato, abbiamo creato queste viste a supporto della BI a valle, denormalizzando fatti e dimensioni utili all'analisi.  
 L'unico tool per creare una reportistica a nostra conoscenza al momento della sessione di questo esame era Microsoft Excel, dove (come esercitazione opzionale) ho importato i dati tramite query direttamente dal DB da me creato. Utilizzando il Power Query Editor e il Power Pivot sono riuscito a mostrare velocemente qualche possibile visualizzazione grazie a differenti charts e pivot tables del mio modello di dati.
 
-NB: i dati inseriti in questo Database sono puramente casuali e inventati da me stesso, lo scopo era appunto mostrare di aver acquisito le skill necessarie a soddisfare eventuali richieste del mondo del lavoro. Non nego la possibilità di poter espandere questo piccolo progetto implementando dataset reali, sicuramente bisogna poi adattare la struttura del DB di conseguenza.
+NB: i dati inseriti in questo DataBase sono puramente casuali e inventati da me stesso, lo scopo era appunto mostrare di aver acquisito le skill necessarie a soddisfare eventuali richieste del mondo del lavoro. Non nego la possibilità di poter espandere questo piccolo progetto implementando dataset reali, adattando la struttura del DB di conseguenza.
 
 
 
