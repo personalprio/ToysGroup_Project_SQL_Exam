@@ -7,5 +7,7 @@ L'unico tool per creare una reportistica a nostra conoscenza al momento della se
 
 NB: i dati inseriti in questo DataBase sono puramente casuali e inventati da me stesso, lo scopo era appunto mostrare di aver acquisito le skill necessarie a soddisfare eventuali richieste del mondo del lavoro. Non nego la possibilità di poter espandere questo piccolo progetto implementando dataset reali, adattando la struttura del DB di conseguenza.
 
+Di seguito il link per la traccia d'esame:  
+[Esercitazione Toys Group](https://github.com/personalprio/ToysGroup_Project_SQL_Exam/blob/main/EsercitazioneToysGroup.md)
 
 
